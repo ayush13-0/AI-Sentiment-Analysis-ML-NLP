@@ -93,7 +93,7 @@ Includes:
 - Emoji-enhanced interpretation
 
 📊 Major Insights :-
-📌 1. SVM achieves the best sentiment classification accuracy (~95%)
+📌 1. SVM achieves the best sentiment classification accuracy
 📌 2. TF-IDF + Linear models outperform tree-based models
 📌 3. Negative tweets dominate airline-related feedback
 📌 4. RoBERTa reveals richer emotions beyond sentiment polarity
