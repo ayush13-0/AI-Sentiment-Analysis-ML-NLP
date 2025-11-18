@@ -1,4 +1,4 @@
-# 💬 Sentiment Analysis Using NLP & Machine Learning Advanced Project
+# 💬 AI Sentiment Analysis Using NLP & Machine Learning Advanced Project
 A complete end-to-end sentiment classification project using Twitter US Airline Sentiment Dataset, TF-IDF, multiple ML models, hyperparameter tuning, and advanced RoBERTa-based emotion detection.
 
 📂 Project Overview :- 
