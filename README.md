@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Sentiment%20Analysis-NLP%20%26%20Machine%20Learning-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h1 align="center">🤖💬 AI Sentiment Analysis Using NLP & Machine Learning (Advanced Project)</h1>
+
+<p align="center">
+  <b>An end-to-end sentiment & emotion analysis system using TF-IDF, multiple ML models, and RoBERTa-based deep emotion detection</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DL-RoBERTa-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Advanced%20Project-brightgreen?style=for-the-badge" />
+</p>
+
 # 💬 AI Sentiment Analysis Using NLP & Machine Learning Advanced Project
 A complete end-to-end sentiment classification project using Twitter US Airline Sentiment Dataset, TF-IDF, multiple ML models, hyperparameter tuning, and advanced RoBERTa-based emotion detection.
 
