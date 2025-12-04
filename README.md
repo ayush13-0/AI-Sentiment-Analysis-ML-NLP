@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/Status-Advanced%20Project-brightgreen?style=for-the-badge" />
 </p>
 
-# 💬 AI Sentiment Analysis Using NLP & Machine Learning Advanced Project
-A complete end-to-end sentiment classification project using Twitter US Airline Sentiment Dataset, TF-IDF, multiple ML models, hyperparameter tuning, and advanced RoBERTa-based emotion detection.
 
 📂 Project Overview :- 
 This project analyzes airline-related tweets to classify them as positive, negative, or neutral.
@@ -117,11 +115,14 @@ Includes:
 📌 3. Negative tweets dominate airline-related feedback
 📌 4. RoBERTa reveals richer emotions beyond sentiment polarity
 
-🗂️ Project Structure
+<h2>🗂️ Project Structure</h2>
+
+<pre>
 ├── Sentimental Analysis Advanced ML Project.ipynb
 ├── dataset/
 │   └── Twitter US Airline Sentiment Dataset.csv
 ├── README.md
+</pre>
 
 👨‍💻 Developed By
 -- Ayush
