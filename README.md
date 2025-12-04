@@ -128,11 +128,11 @@ Includes:
 # 👨‍💻 Developed By
 # <h2> Ayush
 <pre>
-Data Science & Analytics | Machine Learning | NLP | Web Scraping & APIs 
+Data Science & Analytics | Machine Learning | NLP | Web Scraping & APIs </pre>
 - 🌐GitHub: https://github.com/ayush13-0
 - ℹ️LinkedIn: https://www.linkedin.com/in/ayush130
 - ✉️Email - bhanuseenu914@gmail.com
-</pre>
+
 
 📜 License
 - This project is licensed under the **MIT License**.
