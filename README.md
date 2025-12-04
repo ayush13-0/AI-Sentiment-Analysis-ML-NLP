@@ -18,7 +18,7 @@
 </p>
 
 
-📂 Project Overview :- 
+# 📘 Project Overview :- 
 This project analyzes airline-related tweets to classify them as positive, negative, or neutral.
 It includes a full NLP workflow:
 - Cleaning tweets (punctuation removal, lowercasing, stopwords, etc.)
@@ -28,7 +28,7 @@ It includes a full NLP workflow:
 - Building a reusable prediction pipeline
 - Adding an advanced emotion analysis model powered by RoBERTa, giving detailed emotional insights with confidence scores and emojis.
 
-🎯 Objectives :-
+# 🎯 Objectives :-
 - Load, clean, and preprocess raw text data
 - Convert text into numerical features using TF-IDF vectorization
 - Train and compare multiple ML models (Logistic Regression, Naive Bayes, SVM, etc.)
@@ -37,7 +37,16 @@ It includes a full NLP workflow:
 - Build a custom sentiment prediction function
 - Perform advanced emotion detection using RoBERTa (GoEmotions)
 
-🧰 Tech Stack & Libraries :-
+<h2>🗂️ Project Structure</h2>
+
+<pre>
+├── Sentimental Analysis Advanced ML Project.ipynb
+├── dataset/
+│   └── Twitter US Airline Sentiment Dataset.csv
+├── README.md
+</pre>
+
+# 🧰 Tech Stack & Libraries :-
 - Python
 - Pandas
 - NumPy
@@ -47,7 +56,7 @@ It includes a full NLP workflow:
 - Transformers (HuggingFace)
 - RoBERTa (GoEmotions model)
 
-🧮 Key Steps in the Workflow : 
+# 🧮 Key Steps in the Workflow : 
 
 1️⃣ Load Dataset
 - Twitter US Airline Sentiment dataset (Kaggle)
@@ -109,26 +118,21 @@ Includes:
 - Confidence scores
 - Emoji-enhanced interpretation
 
-📊 Major Insights :-
+# 📊 Major Insights :-
 - 📌 1. SVM achieves the best sentiment classification accuracy
 - 📌 2. TF-IDF + Linear models outperform tree-based models
 - 📌 3. Negative tweets dominate airline-related feedback
 - 📌 4. RoBERTa reveals richer emotions beyond sentiment polarity
 
-<h2>🗂️ Project Structure</h2>
 
+# 👨‍💻 Developed By
+# <h2> Ayush
 <pre>
-├── Sentimental Analysis Advanced ML Project.ipynb
-├── dataset/
-│   └── Twitter US Airline Sentiment Dataset.csv
-├── README.md
+Data Science & Analytics | Machine Learning | NLP | Web Scraping & APIs 
+- 🌐GitHub: https://github.com/ayush13-0
+- ℹ️LinkedIn: https://www.linkedin.com/in/ayush130
+- ✉️Email - bhanuseenu914@gmail.com
 </pre>
-
-👨‍💻 Developed By
--- Ayush
-Data Science & Analytics | Machine Learning | NLP | Web Scraping & APIs
-- 🔗 GitHub: https://github.com/ayush13-0
-- 🔗 LinkedIn: https://www.linkedin.com/in/ayush130
 
 📜 License
 - This project is licensed under the **MIT License**.
